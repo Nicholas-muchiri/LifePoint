@@ -1,0 +1,13 @@
+.take li a {
+    font-weight: 600;
+    float: right;
+    color: red !important;
+}
+#banner {
+    background:linear-gradient( rgba(0, 0, 0, 0.6) 100%, rgba(0, 0, 0, 0.6)100%),url("../img/hosp.png");
+    background-repeat:no-repeat;
+    padding-top: 11%;
+    padding-bottom: 15%;
+    background-position:center;
+    background-attachment: fixed;
+}
